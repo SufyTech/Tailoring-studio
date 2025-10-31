@@ -15,8 +15,8 @@ export const translations = {
       cta: 'See Designs'
     },
     about: {
-      title: "About Asma's Tailoring & Embroidery",
-      desc: "At Asma's Tailoring & Embroidery, we transform fabric into fashion. Every garment is stitched with creativity, care, and class — from custom dress materials to intricate embroidery and designer plazos."
+      title: "About AJ's Tailoring & Embroidery",
+      desc: "At AJ's Tailoring & Embroidery, we transform fabric into fashion. Every garment is stitched with creativity, care, and class — from custom dress materials to intricate embroidery and designer plazos."
     },
     services: {
       title: 'What We Offer',
@@ -46,7 +46,7 @@ export const translations = {
       title: 'What Our Clients Say',
       items: [
         {
-          text: 'The embroidery work is absolutely stunning! Asma brought my vision to life with such precision and care.',
+          text: 'The embroidery work is absolutely stunning! AJ brought my vision to life with such precision and care.',
           author: 'Priya Sharma'
         },
         {
@@ -65,11 +65,11 @@ export const translations = {
     },
     cta: {
       title: 'Want to design your dream outfit?',
-      sub: 'Chat directly with Asma to start your custom creation.',
+      sub: 'Chat directly with AJ to start your custom creation.',
       button: 'Chat on WhatsApp'
     },
     footer: {
-      copyright: "© 2025 Asma's Tailoring & Embroidery – All Rights Reserved",
+      copyright: "© 2025 AJ's Tailoring & Embroidery – All Rights Reserved",
       location: 'Pune, Maharashtra, India'
     }
   },
@@ -89,8 +89,8 @@ export const translations = {
       cta: 'डिज़ाइंस देखें'
     },
     about: {
-      title: "Asma's Tailoring & Embroidery के बारे में",
-      desc: "Asma's Tailoring & Embroidery में हम कपड़े को फैशन में बदलते हैं। हर परिधान क्रिएटिविटी, देखभाल और क्लास के साथ सिलता है — कस्टम ड्रेस मटेरियल से लेकर जटिल कढ़ाई एवं डिज़ाइनर प्लाज़ो तक।"
+      title: "AJ's Tailoring & Embroidery के बारे में",
+      desc: "AJ's Tailoring & Embroidery में हम कपड़े को फैशन में बदलते हैं। हर परिधान क्रिएटिविटी, देखभाल और क्लास के साथ सिलता है — कस्टम ड्रेस मटेरियल से लेकर जटिल कढ़ाई एवं डिज़ाइनर प्लाज़ो तक।"
     },
     services: {
       title: 'हम क्या प्रदान करते हैं',
@@ -120,7 +120,7 @@ export const translations = {
       title: 'हमारे ग्राहक क्या कहते हैं',
       items: [
         {
-          text: 'कढ़ाई का काम बिल्कुल शानदार है! Asma ने मेरी कल्पना को इतनी सटीकता और देखभाल के साथ जीवंत किया।',
+          text: 'कढ़ाई का काम बिल्कुल शानदार है! AJ ने मेरी कल्पना को इतनी सटीकता और देखभाल के साथ जीवंत किया।',
           author: 'प्रिया शर्मा'
         },
         {
@@ -139,11 +139,11 @@ export const translations = {
     },
     cta: {
       title: 'क्या आप अपना ड्रीम आउटफिट डिज़ाइन करना चाहते हैं?',
-      sub: 'Asma से सीधे चैट करें और अपनी कस्टम क्रिएशन शुरू करें।',
+      sub: 'AJ से सीधे चैट करें और अपनी कस्टम क्रिएशन शुरू करें।',
       button: 'WhatsApp पर चैट करें'
     },
     footer: {
-      copyright: "© 2025 Asma's Tailoring & Embroidery – सर्वाधिकार सुरक्षित",
+      copyright: "© 2025 AJ's Tailoring & Embroidery – सर्वाधिकार सुरक्षित",
       location: 'पुणे, महाराष्ट्र, भारत'
     }
   }

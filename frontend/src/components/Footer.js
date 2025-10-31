@@ -10,7 +10,7 @@ const Footer = ({ t }) => {
       <div className="footer-container">
         <div className="footer-content">
           <div className="footer-brand">
-            <h3 className="footer-logo">Asma's Tailoring & Embroidery</h3>
+            <h3 className="footer-logo">AJ's Tailoring & Embroidery</h3>
             <p className="footer-tagline">Stitching elegance, one thread at a time</p>
           </div>
 
