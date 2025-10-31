@@ -7,8 +7,7 @@ export const translations = {
       gallery: 'Gallery',
       testimonials: 'Testimonials',
       contact: 'Contact',
-      whatsapp: 'Chat on WhatsApp',
-      lang: 'EN | HI'
+      whatsapp: 'Chat on WhatsApp'
     },
     hero: {
       title: 'Where Elegance is Stitched by Hand',
