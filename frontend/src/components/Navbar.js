@@ -51,8 +51,8 @@ const Navbar = ({ t, language, toggleLanguage }) => {
         </div>
 
         <div className="navbar-actions">
-          <button onClick={toggleLanguage} className="lang-toggle">
-            {language === 'en' ? 'EN | HI' : 'HI | EN'}
+          <button onClick={toggleLanguage} className="lang-toggle" type="button">
+            {language === 'en' ? 'EN' : 'HI'}
           </button>
           <a href={whatsappLink} target="_blank" rel="noopener noreferrer" className="btn-whatsapp-nav">
             <MessageCircle size={18} />
