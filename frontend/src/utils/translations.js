@@ -81,8 +81,7 @@ export const translations = {
       gallery: 'गैलरी',
       testimonials: 'प्रशंसा',
       contact: 'संपर्क',
-      whatsapp: 'WhatsApp पर चैट करें',
-      lang: 'EN | HI'
+      whatsapp: 'WhatsApp पर चैट करें'
     },
     hero: {
       title: 'जहाँ सुंदरता हाथ से सिलकर बनती है',
